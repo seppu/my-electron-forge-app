@@ -52,6 +52,6 @@
     "@electron-forge/maker-zip": "^6.0.0-beta.45",
     "electron": "^7.1.1",
     "extract-zip": "^1.6.7",
-    "minimist": "1.2.5"
+    "minimist": "^1.2.5"
   }
 }
